@@ -16,4 +16,4 @@ Code for learning Ruby
  packages in environment: 
 | Name |  Version |
 | :---: |  :---: |
-|Ruby|2.6.3|
+|Ruby|2.6.8|
