@@ -3,7 +3,7 @@
 </p>
 
 # Ruby
-Code for learning Ruby
+ Code for learning Ruby
 
 ## Table of Contents
 - [Code](#code)
@@ -13,7 +13,8 @@ Code for learning Ruby
 - **pra_num.rb**: 
 
 ## Requirements
- packages in environment: 
+ packages in [environment](https://prog-8.com/docs/ruby-env): 
 | Name |  Version |
 | :---: |  :---: |
 |Ruby|2.6.8|
+|rbenv|?|
